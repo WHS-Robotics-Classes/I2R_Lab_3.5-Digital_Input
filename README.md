@@ -6,6 +6,7 @@
 ### Step One: Build the Circuit
 
 Build your circuit according to this schematic:
+
 ![pulldown circuit](https://github.com/WHS-Robotics-Classes/3.5-Digital_Input/blob/main/pulldown.PNG?raw=true)
 
 ### Step Two: Write the Code
