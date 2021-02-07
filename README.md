@@ -1,29 +1,13 @@
-# Arduino 0.0-Hello World
-## This is our initial programming assignment for *Introduction to Robotics*.  The purpose of any "Hello World" program has always been to demonstrate the ability to use a programming interface.  The roots of this activity go back to a programming book written in 1978 called [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language).  You will use this assignment as a chance to set up our programming environment, run your code to the Arduino and submit your finished assignment here on GitHub.
+# Arduino 3.5-Digital Input
+## In this assignment you will learn to use digital sensors as input devices.  
 
 ---
 
-### **IMPORTANT: Before you start using your Chromebook to write code, be sure that your keyboard is set to "US", not "INTL"**
+### Step One: Build the Circuit
 
-Like this:
-![US](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.17.59%20PM.png?raw=true)
+Build your circuit according to this schematic:
 
-NOT This:
-![INTL](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.17.31%20PM.png?raw=true)
-
-To change your keyboard configuration, click on the "INTL" label and select "US Keyboard" under Input Methods.
-![input-methods](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.23.13%20PM.png?raw=true)
-
----
-
-### For all programming assignments in this class you will do the following:
-1. Read the README.md file provided in the assignment repository for instructions.
 2. Copy any starter code provided for you (Starter.ino file) into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
-3. Modify the code according to the instructions for the assignmnet.
-4. Test the code on your Arduino.
-5. Debug code if necessary.
-6. Create a new file in the assignment repository with the appropriate name.
-7. Click the "Commit Changes" button at the bottom to submit.
 
 Since this assignment is more about testing out your IDE and your ability to run code to the Arduino, this will be a simple assignment.  Specific instructions are listed Below:
 1. Be sure to read this entire document before starting your work.  View the image below so you understand what you will be making.
