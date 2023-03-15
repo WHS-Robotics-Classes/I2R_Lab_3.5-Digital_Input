@@ -7,7 +7,7 @@
 
 Build your button circuit according to this schematic:
 
-![pulldown circuit](https://github.com/WHS-Robotics-Classes/3.5-Digital_Input/blob/main/pulldown.PNG?raw=true)
+![Capture](https://user-images.githubusercontent.com/22602103/225357434-ab899c14-9027-4bbb-b78a-b80a8234c9cf.PNG)
 
 Add a second circuit with a resistor and an LED.
 
@@ -25,6 +25,8 @@ Use the video below as a reference.
 
 ### Step Three: Debug and Submit
 
-[![3.5_Video](http://img.youtube.com/vi/Nc7hQMbBjHo/0.jpg)](https://www.youtube.com/watch?v=Nc7hQMbBjHo "3.5-Digital Input Video")
+https://user-images.githubusercontent.com/22602103/225373034-9fa0b0b0-31bc-40a0-bf88-38488d8eb100.mp4
 
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.
+Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.  Submit a video of the working prototype on Canvas.
+
+
