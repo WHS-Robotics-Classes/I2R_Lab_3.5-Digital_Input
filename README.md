@@ -5,13 +5,15 @@
 
 ### Step One: Build the Circuit
 
-Build your circuit according to this schematic:
+Build your button circuit according to this schematic:
 
 ![pulldown circuit](https://github.com/WHS-Robotics-Classes/3.5-Digital_Input/blob/main/pulldown.PNG?raw=true)
 
+Add a second circuit with a resistor and an LED.
+
 ### Step Two: Write the Code
 
-Before you start, review the Arduino Reference page on [`digitalRead()`](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/).  You should also review [`Serial.println()`](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) as you will need to know how to print something as a binary number.
+Before you start, review the Arduino Reference page on [`digitalRead()`](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/).  You should also review [`Serial.println()`](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) and the [`if()` `else` conditionals](https://www.arduino.cc/reference/en/language/structure/control-structure/if/) as you will need to know how to print something and control an actuator based on the state of the button.
 
 1. For starter code, use your previous work with the button.
 2. Modify the code so your sketch does the following:
